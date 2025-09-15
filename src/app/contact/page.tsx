@@ -1,9 +1,10 @@
-
 import React from 'react'
 
 const page = () => {
   return (
-    <div>home</div>
+    <div>
+      <h1> my personal contact here</h1>
+    </div>
   )
 }
 
